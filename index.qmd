@@ -1,0 +1,40 @@
+---
+title: "Finding Patterns in Chaos: Statistics That Make Life Less Confusing"
+author: Saeid Noorbar
+format: revealjs
+editor: visual
+---
+
+# My Grandpa
+
+Smoked two packs of cigarettes a day
+
+# Putting Probability and Statistics Together
+
+The Wisdom of Groups and the Magic of Averages
+
+100 people guess the jelly beans in a jar. Individually wrong, together… surprisingly close! That’s sampling.
+
+The Central Limit Theorem: Big samples = bell curve magic.
+
+# Confidence Intervals
+
+Confidence intervals: ‘We’re 95% sure the truth is between here and there.’ Not perfect, but close enough.
+
+Groups calculate confidence intervals for student heights or screen time.
+
+# P-Values & Hypothesis Testing
+
+P-values are alarms. Small P (\<0.05) means, ‘Hey, something weird is happening!’ But is it important? Maybe it’s just noise.
+
+# Errors in Statistics
+
+-   Type I Error: You think there’s a ghost (false alarm).
+
+-   Type II Error: You miss the ghost (oops, haunted).
+
+# Confidence Intervals and Replication
+
+Confidence intervals complement hypothesis tests by showing the range of plausible values for the result.
+
+Replication (repeating studies) is crucial to confirm findings and avoid false discoveries.
